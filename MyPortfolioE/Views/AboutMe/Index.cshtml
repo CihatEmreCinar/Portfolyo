@@ -1,0 +1,40 @@
+﻿@model About
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">Hakkımda</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">Hakkımda Yazıları</div>
+                    </div>
+                    <div class="card-body">
+                        <!-- Mevcut Değer -->
+                        <div>
+                            <label>Mevcut Değer:</label>
+                            <p>@Model.Detail</p>
+                        </div>
+                        <hr />
+
+                        <!-- Form -->
+                        <form method="post">
+                            <input type="hidden" asp-for="AboutId" />
+
+                            <label>Yeni Değer</label>
+                            <input type="text" asp-for="Detail" class="form-control" />
+                            <br />
+
+                            <button type="submit" class="btn btn-primary">Güncelle</button>
+                            <br />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

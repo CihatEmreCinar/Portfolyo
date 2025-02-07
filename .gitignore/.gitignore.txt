@@ -1,0 +1,15 @@
+# Visual Studio Geçici Dosyaları
+.vs/
+.vscode/
+*.vsix
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Derleme ve Geçici Dosyalar
+bin/
+obj/
+
+# NuGet Paketleri
+*.nupkg

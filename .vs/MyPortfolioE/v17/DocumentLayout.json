@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\socialmedia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\socialmedia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\shared\\components\\_featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\shared\\components\\_featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\defaultcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\defaultcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\shared\\components\\_headcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\shared\\components\\_aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\shared\\components\\_aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\shared\\components\\_navbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\shared\\components\\_navbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|c:\\users\\cigo_\\source\\repos\\myportfolioe\\myportfolioe\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8701D1A-FEAC-4288-A1CD-829F302E0A2B}|MyPortfolioE\\MyPortfolioE.csproj|solutionrelative:myportfolioe\\dal\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\DefaultController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\DefaultController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\DefaultController1\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\DefaultController1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T20:04:14.357Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\SocialMedia\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\SocialMedia\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\SocialMedia\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\SocialMedia\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T20:48:58.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T20:17:42.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T20:09:40.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T20:09:38.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\Shared\\Components\\_FeatureComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T20:05:45.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\Shared\\Components\\_HeadComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T20:03:28.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEoAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T19:58:21.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_NavBarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\Shared\\Components\\_NavBarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_NavBarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\Shared\\Components\\_NavBarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T19:57:34.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T19:56:22.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioE\\Views\\Shared\\Components\\_AboutComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T19:56:12.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MyPortfolioE\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MyPortfolioE\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:53:52.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\DAL\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "MyPortfolioE\\DAL\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\cigo_\\source\\repos\\MyPortfolioE\\MyPortfolioE\\DAL\\Entities\\Contact.cs",
+              "RelativeToolTip": "MyPortfolioE\\DAL\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:53:51.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
