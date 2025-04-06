@@ -1,8 +1,4 @@
-Projen için örnek bir `README.md` dosyasını aşağıda oluşturdum. Bu dosya, ASP.NET Core MVC ile yazılmış kişisel portföy projesini açıklıyor. Dilersen özelleştirebiliriz:
-
----
-
-```markdown
+-
 # MyPortfolioE
 
 **MyPortfolioE** — ASP.NET Core MVC kullanılarak geliştirilmiş kişisel portföy uygulamasıdır. Kullanıcı, kendisi hakkında bilgi girebilir, düzenleyebilir ve frontend'de şık bir şekilde listeleyebilir.
@@ -25,8 +21,7 @@ Projen için örnek bir `README.md` dosyasını aşağıda oluşturdum. Bu dosya
 
 ## 📁 Proje Yapısı
 
-```bash
-MyPortfolioE/
+-MyPortfolioE/
 ├── Controllers/
 │   └── AboutMeController.cs
 ├── DAL/
@@ -63,7 +58,7 @@ MyPortfolioE/
 ## 📝 Örnek Kod Parçacığı
 
 **AboutMeController.cs**
-```csharp
+
 public IActionResult Index()
 {
     var value = context.Abouts.ToList();
