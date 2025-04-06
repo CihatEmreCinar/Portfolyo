@@ -19,30 +19,6 @@
 - jQuery, ChartJS (dashboard için)
 - ready.css
 
-## 📁 Proje Yapısı
-
--MyPortfolioE/
-├── Controllers/
-│   └── AboutMeController.cs
-├── DAL/
-│   ├── Context/
-│   │   └── MyPortfolioContext.cs
-│   └── Entities/
-│       └── About.cs
-├── Views/
-│   ├── AboutMe/
-│   │   ├── Index.cshtml
-│   │   └── CreateAbout.cshtml
-│   └── Layout/
-│       └── Index.cshtml
-├── wwwroot/
-│   ├── css/
-│   │   ├── bootstrap.min.css
-│   │   └── ready.css
-│   └── js/
-├── appsettings.json
-└── MyPortfolioE.csproj
-```
 
 ## 🧪 Nasıl Çalıştırılır?
 
